@@ -1,0 +1,8 @@
+local
+	$(SML_LIB)/basis/basis.mlb
+in
+	dictionary.sig
+	dictionary.sml
+	dom.sig
+	dom.sml
+end
